@@ -540,4 +540,4 @@ def update_model_performance(n_clicks):
 
 
 if __name__ == '__main__':
-    app.run_server(debug = True)
+    app.run_server()
